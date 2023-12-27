@@ -1,0 +1,6 @@
+fastapi
+numpy
+pytest
+pytest-cov
+python-jose[cryptography]
+python-dotenv
